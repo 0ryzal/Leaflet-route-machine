@@ -1,0 +1,17 @@
+#cadre{
+    width: 100%;
+    height: 597px;
+    margin-right: auto;
+    margin-left: auto;    
+}
+
+#encart{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+#map{
+    width: 100%;
+    height: 100%;
+}
